@@ -7,9 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/wmolina-cyber/osticket-postinstall-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/wmolina-cyber/osticket-ticketlifecycle)
 - <b>Microsoft Azure Compute and Networking</b>
-  - [Part 1](https://github.com/wmolina-cyber/part1)
-  - [Part 2](https://github.com/wmolina-cyber/part2)
-  - [Part 3](https://github.com/wmolina-cyber/part3)
+  - [Part 1](https://github.com/wmolina-cyber/azure-part1)
+  - [Part 2](https://github.com/wmolina-cyber/azure-part2)
+  - [Part 3](https://github.com/wmolina-cyber/azure-part3)
 - <b>Active Directory</b>
   - [Preparing AD infrastructure in Azure](https://github.com/wmolina-cyber/prep-ad-infra)
   - [Deploying Active Directory](https://github.com/wmolina-cyber/deploy-ad)
