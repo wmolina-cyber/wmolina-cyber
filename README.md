@@ -1,4 +1,4 @@
-<h1>Hi, I'm Wilson, an <a href="https://linkedin.com/in/wilsonmolina">IT Professional</a></h1>
+<h1>Hi, I'm Wilson, an IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
